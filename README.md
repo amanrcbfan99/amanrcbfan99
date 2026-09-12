@@ -164,7 +164,7 @@ The project helped me practice frontend interfaces, backend development, APIs, d
 
 ---
 
-# # 📊 Contribution Graph
+#  📊 Contribution Graph
 
 <div align="center">
 
