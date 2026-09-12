@@ -164,16 +164,6 @@ The project helped me practice frontend interfaces, backend development, APIs, d
 
 ---
 
-#  📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrcbfan99&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
 # 🎯 My Goal
 
 My long-term goal is to become a **skilled Software Engineer** capable of designing, developing, and maintaining real-world applications.
