@@ -154,11 +154,11 @@ The project helped me practice frontend interfaces, backend development, APIs, d
 
 ---
 
-# # 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=amanrcbfan99" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
