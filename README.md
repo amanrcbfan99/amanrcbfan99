@@ -1,24 +1,6 @@
-<div align="center">
-
 # 👋 Hey, I'm Aman Kashyap
 
 ### 💻 Full-Stack Web Developer | MERN Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Backend+Development+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=amanrcbfan99&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-
-<a href="https://github.com/amanrcbfan99?tab=followers">
-<img src="https://img.shields.io/github/followers/amanrcbfan99?label=Followers&style=for-the-badge&color=236ad3" alt="Followers" />
-</a>
-
-<a href="https://github.com/amanrcbfan99?tab=repositories">
-<img src="https://img.shields.io/github/stars/amanrcbfan99?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</a>
-
-</div>
 
 ---
 
@@ -109,8 +91,6 @@ I'm focusing on understanding technologies through **hands-on projects rather th
 
 # 📚 Currently Learning
 
-<div align="center">
-
 ### ⚛️ React
 
 Building modern and interactive frontend applications with React.
@@ -122,8 +102,6 @@ Connecting frontend applications with backend APIs and databases.
 ### 🚀 Production-Oriented Development
 
 Learning how real-world applications are structured, developed, tested, and maintained.
-
-</div>
 
 ---
 
@@ -166,9 +144,11 @@ The project helped me practice frontend interfaces, backend development, APIs, d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Top Languages"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -236,8 +216,6 @@ Every project is an opportunity to learn something new, solve problems, improve 
 ### 💻 Building my skills one project at a time.
 
 ### 🚀 Always Learning • Always Building • Always Improving
-
-<br>
 
 ⭐ Thanks for visiting my profile!
 
