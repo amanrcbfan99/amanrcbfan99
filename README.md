@@ -144,27 +144,27 @@ The project helped me practice frontend interfaces, backend development, APIs, d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=amanrcbfan99" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# # 📊 Contribution Graph
 
 <div align="center">
 
