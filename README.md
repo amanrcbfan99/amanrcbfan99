@@ -36,7 +36,7 @@ I believe the best way to learn software development is to **build things, break
 ## 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" height="55" alt="HTML CSS JavaScript"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,c" height="55" alt="HTML CSS JavaScript C"/>
 </p>
 
 ## 🎨 Frontend Development
@@ -64,6 +64,7 @@ I believe the best way to learn software development is to **build things, break
 </p>
 
 ---
+
 
 # 🧠 My Development Journey
 
