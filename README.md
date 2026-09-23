@@ -54,7 +54,7 @@ I believe the best way to learn software development is to **build things, break
 ## 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,sql" height="55" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mongodb,sql" height="55" alt="MongoDB & SQL"/>
 </p>
 
 ## 🔧 Tools & Development
