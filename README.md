@@ -6,17 +6,13 @@
 
 # 🚀 About Me
 
-Hey! I'm **Aman Kashyap**, an IT Diploma student and aspiring Software Engineer from India.
+Hey! I’m **Aman Kashyap**, an IT Diploma student and aspiring Software Engineer from India, passionate about **web development, backend engineering, and building practical real-world applications**.
 
-I'm passionate about **web development, backend engineering, and building real-world applications**.
+My development journey started with **HTML, CSS, and JavaScript**, and gradually evolved into backend development with **Node.js, Express.js, and MongoDB**. Along the way, I’ve worked on projects that have helped me understand how APIs, databases, authentication, and application logic come together to build real software.
 
-I started my development journey with HTML, CSS, and JavaScript and gradually moved into backend development with Node.js, Express.js, and MongoDB.
+Currently, I’m learning **React** to strengthen my full-stack development skills and continuing to build practical projects that challenge me to think beyond just writing code.
 
-Currently, I'm learning **React** to complete my MERN Stack journey and working on practical projects that help me understand how real-world applications are designed and built.
-
-I believe the best way to learn software development is to **build things, break things, debug them, and build them better.**
-
----
+I believe the best way to learn software development is simple: **build things, break things, understand why they broke, and build them better.**
 
 # 💻 What I Do
 
