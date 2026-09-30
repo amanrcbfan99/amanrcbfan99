@@ -153,6 +153,19 @@ The project helped me practice frontend interfaces, backend development, APIs, d
 
 </div>
 
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amanrcbfan99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
 ---
 
 # 🔥 GitHub Streak
