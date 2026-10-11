@@ -1,135 +1,266 @@
+# 👋 Hey, I'm Aman Kashyap
 
-<div align="center">
+### 💻 Full-Stack Web Developer | MERN Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171738,50:5146C7,100:00D4FF&height=220&section=header&text=Aman%20Kashyap&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Aman Kashyap — Aspiring Software Engineer"/>
-
-<a href="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9">
-<img src="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
-<a href="mailto:amanrcbfan99@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6559d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/amanrcbfan99?tab=repositories">
-<img src="https://img.shields.io/badge/GITHUB-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=8B7CFF&center=true&vCenter=true&width=650&lines=IT+Diploma+Student;Backend+Development+%7C+Web+Technologies;Learning+React+%26+Full-Stack+Development;Build.+Debug.+Understand.+Improve." alt="Animated introduction"/>
-
-<br/>
-
-[About Me](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [GitHub Stats](#-github-analytics) · [Contact](#-lets-connect)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanrcbfan99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Hey! I'm **Aman Kashyap**, an IT Diploma student at Hewett Polytechnic, Lucknow, India, working toward becoming a skilled Software Engineer.
+Hey! I'm **Aman Kashyap**, an IT Diploma student and aspiring Software Engineer from India, passionate about **web development, backend engineering, and building practical real-world applications**.
 
-I'm passionate about web development, backend engineering, databases, and building practical applications. I enjoy learning through projects, debugging problems, and understanding the reasoning behind technical decisions.
+My development journey started with **HTML, CSS, and JavaScript**, and gradually evolved into backend development with **Node.js, Express.js, MongoDB, and REST APIs**.
 
-- 🎓 **Education:** IT Diploma student
-- ⚙️ **Current focus:** Backend development and software engineering fundamentals
-- ⚛️ **Currently learning:** React
-- 💡 **Interests:** Web applications, databases, authentication, and application design
-- 🎯 **Goal:** Build reliable applications and develop strong software engineering skills
+I enjoy learning by building projects, debugging problems, understanding how things work internally, and continuously improving my implementations.
 
-> *Build things. Break things. Understand why. Build them better.*
+Currently, I'm learning **React** and working toward becoming a strong **full-stack developer** with a solid understanding of backend engineering and real-world software development.
 
-## 🛠️ Tech Stack
+> **Build things. Break things. Understand why. Build them better.**
 
-<div align="center">
+---
 
-### Programming Languages & Web Foundations
+## 💻 What I Do
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c&theme=dark" alt="HTML, CSS, JavaScript and C"/>
+<p align="center">
 
-### Frontend Development
+🌐 Web Development &nbsp; • &nbsp;
+⚙️ Backend Development &nbsp; • &nbsp;
+🔌 REST APIs &nbsp; • &nbsp;
+🗄️ Database Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
+<br>
 
-<sub>React — Currently Learning</sub>
+🔐 Authentication &nbsp; • &nbsp;
+🎨 Responsive Interfaces &nbsp; • &nbsp;
+🚀 Real-World Projects &nbsp; • &nbsp;
+📚 Continuous Learning
 
-### Backend Development
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+---
 
-<sub>REST API Development · Authentication Fundamentals · Password Hashing · JWT Fundamentals</sub>
+# 🛠️ Tech Stack
 
-### Databases
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,c" height="55" alt="JavaScript C"/>
+</p>
 
-<sub>MongoDB · Mongoose</sub>
+## 🎨 Frontend
 
-### Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="55" alt="HTML CSS JavaScript React"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Git, GitHub, VS Code, Postman and npm"/>
+<p align="center">
+  <b>React — Currently Learning</b>
+</p>
 
-</div>
+## ⚙️ Backend
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="55" alt="Node.js Express.js"/>
+</p>
 
-### 🎓 Student Hub — Hewett Helper
+## 🗄️ Databases
 
-A student-focused project aimed at bringing useful academic resources and student utilities together in one place.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="55" alt="MongoDB MySQL"/>
+</p>
 
-**Project focus**
-- 📚 Academic resources and previous-year questions
-- 👤 Student accounts and authentication
-- 🗄️ Database-backed functionality
+<p align="center">
+  <b>MongoDB • Mongoose • SQL Fundamentals</b>
+</p>
 
-**Technologies:** `Node.js` `Express.js` `MongoDB` `Mongoose`
+## 🔧 Tools
 
-### 🎵 Spotify Clone
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" height="55" alt="Git GitHub VS Code npm Postman"/>
+</p>
 
-A Spotify-inspired project developed to practise web application development and strengthen my implementation skills.
+---
 
-**Technologies:** `JavaScript` `Node.js` `Express.js` `MongoDB`
+# 🧠 Development Journey
 
-> Project descriptions reflect the intended focus of these projects. Add repository and live-demo links when the URLs and implemented features are confirmed.
+```text
+HTML + CSS
+     ↓
+JavaScript
+     ↓
+Node.js + Express.js
+     ↓
+MongoDB + Mongoose
+     ↓
+REST APIs + Authentication
+     ↓
+Git + GitHub
+     ↓
+React
+     ↓
+Full-Stack Development
+```
 
-## 📊 GitHub Analytics
+I'm focused on understanding **why technologies work**, not just memorizing syntax.
 
-<div align="center">
+---
+
+# 📚 Currently Learning
+
+### ⚛️ React
+
+Learning component-based architecture, state management, reusable UI patterns, and frontend-backend integration.
+
+### 🌐 Full-Stack Development
+
+Connecting modern frontend applications with backend APIs, authentication systems, and databases.
+
+### ⚙️ Backend Engineering
+
+Improving my understanding of API design, authentication, database architecture, security, and real-world backend patterns.
+
+### 🚀 Production-Oriented Development
+
+Learning how applications are structured, tested, maintained, and improved beyond simple tutorial projects.
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Student Hub — Hewett Helper
+
+A student-focused platform designed to provide useful academic resources and utilities for students.
+
+### Features
+
+- 📚 Academic resources
+- 📝 Previous Year Questions
+- 👤 User accounts
+- 🔐 Authentication
+- 🔌 REST APIs
+- 🗄️ Database integration
+- 📊 Student-focused utilities
+
+### Tech Stack
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `REST API` `React`
+
+---
+
+## 🎵 Spotify Clone
+
+A Spotify-inspired application built as a practical project to strengthen my understanding of modern web development.
+
+### Focus
+
+- 🎨 Frontend interface development
+- 🔌 Backend APIs
+- 🗄️ Database integration
+- ⚙️ Application architecture
+- 🔐 Authentication concepts
+
+### Tech Stack
+
+`JavaScript` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanrcbfan99&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>Tracking my journey, one visit at a time.</i>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+<p align="center">
+
+📚 Strengthening Computer Science Fundamentals  
+<br>
+⚙️ Improving Backend Engineering  
+<br>
+⚛️ Learning React  
+<br>
+🔐 Understanding Authentication & Security  
+<br>
+🗄️ Improving Database Knowledge  
+<br>
+🚀 Building Production-Oriented Projects  
+<br>
+🧠 Developing Strong Problem-Solving Skills
+
+</p>
+
+---
+
+# 🌱 My Development Philosophy
+
+> **Don't just learn technology. Build with it.**
+
+Every project is an opportunity to:
+
+**Learn → Build → Debug → Understand → Improve → Repeat 🔁**
+
+I believe real growth comes from solving problems, understanding failures, and continuously improving the way software is built.
+
+---
+
+# 🎯 Long-Term Goal
+
+My long-term goal is to become a **skilled Software Engineer** capable of designing, developing, and maintaining reliable real-world applications.
+
+I'm working toward becoming a developer who understands not only **how to write code**, but also **how software systems actually work**.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/amanrcbfan99">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/amanrcbfan99">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-## 🎯 What I'm Working Toward
-
-- Strengthening programming and computer science fundamentals
-- Improving backend development and database knowledge
-- Learning React and frontend-backend integration
-- Building better projects through testing and debugging
-- Understanding security, maintainability, and software design
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/amanrcbfan99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="mailto:amanrcbfan99@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+</p>
 
-**Always Learning · Always Building · Always Improving**
+---
+
+<div align="center">
+
+### 💻 Building my skills one project at a time.
+
+### 🚀 Always Learning • Always Building • Always Improving
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
