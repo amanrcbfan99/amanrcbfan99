@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10152C,45:5146C7,100:00D4C7&height=250&section=header&text=Aman%20Kashyap&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20%26%20Backend%20Development&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Aman Kashyap — Developer Profile"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10152C,45:5146C7,100:00D4C7&height=250&section=header&text=Aman%20Kashyap&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20%26%20Backend%20Development&descSize=16&descAlignY=58" width="100%" alt="Aman Kashyap - Developer Profile"/>
 
 <br/>
 
-<a href="https://github.com/amanrcbfan99">
-  <img src="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559D9&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
 <a href="https://github.com/amanrcbfan99?tab=repositories">
   <img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
 </a>
 <a href="mailto:amanrcbfan99@gmail.com">
   <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/amanrcbfan99?tab=followers">
+  <img src="https://img.shields.io/github/followers/amanrcbfan99?style=for-the-badge&logo=github&label=Followers&color=6559D9" alt="GitHub Followers"/>
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 <a href="#about-me">About</a> •
 <a href="#tech-stack">Tech Stack</a> •
 <a href="#featured-projects">Projects</a> •
-<a href="#github-analytics">GitHub Stats</a> •
+<a href="#github-activity">Activity</a> •
 <a href="#lets-connect">Contact</a>
 
 </div>
@@ -109,8 +109,6 @@ A Spotify-inspired practice project built to improve my understanding of web app
 
 `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-> Project descriptions should reflect the features actually implemented in the corresponding repositories.
-
 ---
 
 ## Currently Learning
@@ -127,28 +125,19 @@ My current priorities are strengthening programming fundamentals, improving back
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/amanrcbfan99">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/amanrcbfan99">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://ghchart.rshah.org/6559D9/amanrcbfan99" width="95%" alt="GitHub Contribution Chart"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" width="80%" alt="GitHub Contribution Streak"/>
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrcbfan99&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<a href="https://github.com/amanrcbfan99">
+  <img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" width="80%" alt="GitHub Contribution Streak"/>
+</a>
 
 </div>
 
