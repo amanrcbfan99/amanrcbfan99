@@ -1,27 +1,24 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171738,50:5146C7,100:00D4FF&height=220&section=header&text=Aman%20Kashyap&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Aman Kashyap — Aspiring Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171738,50:5146C7,100:00D4FF&height=240&section=header&text=Aman%20Kashyap&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Aman Kashyap - Aspiring Software Engineer"/>
 
-<a href="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9">
-<img src="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B7CFF&center=true&vCenter=true&width=650&height=45&lines=IT+Diploma+Student+%F0%9F%8E%93;Backend+Development+%7C+Web+Technologies+%E2%9A%99%EF%B8%8F;Learning+React+%26+Full-Stack+Development+%E2%9A%9B%EF%B8%8F;Build.+Debug.+Understand.+Improve.+%F0%9F%9A%80" alt="Animated introduction"/>
+
+<br/><br/>
 
 <a href="mailto:amanrcbfan99@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6559d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://github.com/amanrcbfan99?tab=repositories">
 <img src="https://img.shields.io/badge/GITHUB-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
 </a>
+<a href="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9">
+<img src="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=8B7CFF&center=true&vCenter=true&width=650&lines=IT+Diploma+Student;Backend+Development+%7C+Web+Technologies;Learning+React+%26+Full-Stack+Development;Build.+Debug.+Understand.+Improve." alt="Animated introduction"/>
-
-<br/>
-
-[About Me](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [GitHub Stats](#-github-analytics) · [Contact](#-lets-connect)
+[About Me](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [GitHub Stats](#-github-stats) · [Contact](#-lets-connect)
 
 </div>
 
@@ -29,103 +26,134 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Aman Kashyap**, an IT Diploma student at Hewett Polytechnic, Lucknow, India, working toward becoming a skilled Software Engineer.
+Hey! I'm **Aman Kashyap**, an IT Diploma student at **Hewett Polytechnic, Lucknow**, working toward becoming a skilled Software Engineer.
 
-I'm passionate about web development, backend engineering, databases, and building practical applications. I enjoy learning through projects, debugging problems, and understanding the reasoning behind technical decisions.
+I enjoy web development, backend engineering, databases, and building practical applications. I learn best by building projects, debugging problems, and understanding the reasoning behind technical decisions.
 
-- 🎓 **Education:** IT Diploma student
-- ⚙️ **Current focus:** Backend development and software engineering fundamentals
-- ⚛️ **Currently learning:** React
-- 💡 **Interests:** Web applications, databases, authentication, and application design
-- 🎯 **Goal:** Build reliable applications and develop strong software engineering skills
+<div align="center">
 
-> *Build things. Break things. Understand why. Build them better.*
+| | |
+|:--|:--|
+| 🎓 **Education** | IT Diploma student |
+| ⚙️ **Current focus** | Backend development and software engineering fundamentals |
+| ⚛️ **Currently learning** | React |
+| 💡 **Interests** | Web applications, databases, authentication, application design |
+| 🎯 **Goal** | Build reliable applications and develop strong software engineering skills |
+
+</div>
+
+<div align="center">
+
+> ✨ *Build things. Break things. Understand why. Build them better.* ✨
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages & Web Foundations
+### 🌐 Languages & Web Foundations
 
 <img src="https://skillicons.dev/icons?i=html,css,js,c&theme=dark" alt="HTML, CSS, JavaScript and C"/>
 
-### Frontend Development
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
 
-<sub>React — Currently Learning</sub>
+<sub>⚛️ React: currently learning</sub>
 
-### Backend Development
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
 
-<sub>REST API Development · Authentication Fundamentals · Password Hashing · JWT Fundamentals</sub>
+<sub>REST APIs · Authentication Fundamentals · Password Hashing · JWT Fundamentals</sub>
 
-### Databases
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
 
 <sub>MongoDB · Mongoose</sub>
 
-### Tools & Workflow
+### 🧰 Tools & Workflow
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Git, GitHub, VS Code, Postman and npm"/>
 
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
-### 🎓 Student Hub — Hewett Helper
+<!-- When you have the repository and live-demo links, add them under each project, for example: [View Repository](https://github.com/amanrcbfan99/your-repo-name) -->
 
-A student-focused project aimed at bringing useful academic resources and student utilities together in one place.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Project focus**
+### 🎓 Student Hub (Hewett Helper)
+
+A student-focused project that brings useful academic resources and student utilities together in one place.
+
+**Focus**
 - 📚 Academic resources and previous-year questions
 - 👤 Student accounts and authentication
 - 🗄️ Database-backed functionality
 
-**Technologies:** `Node.js` `Express.js` `MongoDB` `Mongoose`
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎵 Spotify Clone
 
-A Spotify-inspired project developed to practise web application development and strengthen my implementation skills.
+A Spotify-inspired project built to practise web application development and strengthen my implementation skills.
 
-**Technologies:** `JavaScript` `Node.js` `Express.js` `MongoDB`
+**Focus**
+- 🎧 Music-app style interface
+- 🧩 Practising real-world app structure
 
-> Project descriptions reflect the intended focus of these projects. Add repository and live-demo links when the URLs and implemented features are confirmed.
+**Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-## 📊 GitHub Analytics
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/amanrcbfan99">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/amanrcbfan99">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrcbfan99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" width="100%"/>
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amanrcbfan99/amanrcbfan99/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%"/>
-
-</div>
+---
 
 ## 🎯 What I'm Working Toward
 
-- Strengthening programming and computer science fundamentals
-- Improving backend development and database knowledge
-- Learning React and frontend-backend integration
-- Building better projects through testing and debugging
-- Understanding security, maintainability, and software design
+- 🧠 Strengthening programming and computer science fundamentals
+- 🗄️ Improving backend development and database knowledge
+- ⚛️ Learning React and frontend-backend integration
+- 🐞 Building better projects through testing and debugging
+- 🔐 Understanding security, maintainability, and software design
+
+---
 
 ## 🤝 Let's Connect
 
@@ -141,5 +169,7 @@ A Spotify-inspired project developed to practise web application development and
 <br/><br/>
 
 **Always Learning · Always Building · Always Improving**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5146C7,100:171738&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
