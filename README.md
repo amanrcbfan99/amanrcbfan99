@@ -1,187 +1,188 @@
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9">
-<img src="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559d9&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171738,50:5146C7,100:00D4FF&height=220&section=header&text=Aman%20Kashyap&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Aman Kashyap - Aspiring Software Engineer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=8B7CFF&center=true&vCenter=true&width=650&lines=IT+Diploma+Student;Backend+Development+%7C+Web+Technologies;Learning+React+%26+Full-Stack+Development;Build.+Debug.+Understand.+Improve." alt="Animated introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10152C,45:5146C7,100:00D4C7&height=250&section=header&text=Aman%20Kashyap&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20%26%20Backend%20Development&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Aman Kashyap — Developer Profile"/>
 
 <br/>
 
-<a href="mailto:amanrcbfan99@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-6559d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://github.com/amanrcbfan99">
+  <img src="https://komarev.com/ghpvc/?username=amanrcbfan99&style=for-the-badge&color=6559D9&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
 <a href="https://github.com/amanrcbfan99?tab=repositories">
-<img src="https://img.shields.io/badge/GITHUB-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+  <img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+</a>
+<a href="mailto:amanrcbfan99@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
 
-[About Me](#-about-me) · [Snapshot](#-developer-snapshot) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Learning](#-what-im-working-toward) · [GitHub Stats](#-github-stats) · [Contact](#-lets-connect)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B7CFF&center=true&vCenter=true&width=720&lines=Building+Practical+Web+Applications;Exploring+Backend+Engineering;Learning+React+%26+Full-Stack+Development;Build.+Debug.+Understand.+Improve." alt="Animated Developer Introduction"/>
+
+<br/><br/>
+
+<a href="#about-me">About</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#featured-projects">Projects</a> •
+<a href="#github-analytics">GitHub Stats</a> •
+<a href="#lets-connect">Contact</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hey! I'm **Aman Kashyap**, an IT Diploma student at **Hewett Polytechnic, Lucknow, India**, working toward becoming a skilled Software Engineer.
+Hey! I'm **Aman Kashyap**, an IT Diploma student at Hewett Polytechnic, Lucknow, India, working toward becoming a skilled Software Engineer.
 
-I'm passionate about web development, backend engineering, databases, and building practical applications. I enjoy learning through projects, debugging problems, and understanding the reasoning behind technical decisions instead of only copying solutions.
+I'm interested in web development, backend engineering, databases, and building practical applications. I enjoy learning through projects, debugging problems, and understanding the reasoning behind technical decisions.
 
-Alongside my studies I do **freelance web development**, which gives me real experience building and shipping websites for real people. My long-term goal is to become an engineer who truly understands how systems work internally.
+- 🎓 **Education:** IT Diploma — Hewett Polytechnic, Lucknow
+- 💻 **Interests:** Web Development, Backend Engineering, Software Development
+- ⚙️ **Current Focus:** Backend fundamentals and practical projects
+- ⚛️ **Currently Learning:** React
+- 🎯 **Goal:** Become a capable Software Engineer who can build and maintain reliable applications
 
-- 🎓 **Education:** IT Diploma student at Hewett Polytechnic, Lucknow
-- ⚙️ **Current focus:** Backend development and software engineering fundamentals
-- ⚛️ **Currently learning:** React
-- 💼 **Experience:** Freelance web development alongside my studies
-- 💡 **Interests:** Web applications, databases, authentication, and application design
-- 🎯 **Goal:** Build reliable applications and develop strong software engineering skills
-
-> *Build things. Break things. Understand why. Build them better.*
+> **Build things. Break things. Understand why. Build them better.**
 
 ---
 
-## 🧬 Developer Snapshot
-
-````js
-const aman = {
-  name: "Aman Kashyap",
-  role: "IT Diploma Student",
-  college: "Hewett Polytechnic, Lucknow",
-  alsoDoing: "Freelance web development",
-  focus: ["Backend Development", "Web Technologies", "Databases"],
-  stack: ["JavaScript", "Node.js", "Express.js", "MongoDB", "Mongoose"],
-  learning: "React",
-  goal: "Become a skilled Software Engineer",
-  motto: "Build. Debug. Understand. Improve.",
-};
-````
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,react,nodejs,express,mongodb,git,github,vscode,postman,npm,vite,supabase,netlify&theme=dark&perline=8" alt="HTML, CSS, JavaScript, C, React, Node.js, Express.js, MongoDB, Git, GitHub, VS Code, Postman, npm, Vite, Supabase and Netlify"/>
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,c&theme=dark" alt="JavaScript and C"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="HTML, CSS, JavaScript and React"/>
+
+<sub>React — Currently Learning</sub>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"/>
+
+<sub>REST API Development · Authentication Fundamentals · Password Hashing · JWT Fundamentals</sub>
+
+### Database & Data Modeling
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB"/>
+
+<sub>MongoDB · Mongoose</sub>
+
+### Tools & Development Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Git, GitHub, VS Code, Postman and npm"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<!-- When you have repository and live-demo links, add them under each project, for example: [View Repository](https://github.com/amanrcbfan99/your-repo-name) -->
+### 🎓 Student Hub — Hewett Helper
 
-### 🏫 Bhartiya Vidyapeeth Playway School Website
+A student-focused project designed to bring useful academic resources and student utilities together in one place.
 
-A live website I built for a real client, **Bhartiya Vidyapeeth Playway School**, with a child-friendly design and a backend that supports student accounts.
-
-- 🎨 Child-friendly landing page design
-- 👤 Student account support from Play Group through 12th grade
-- 🔐 Row-level security policies and a private image gallery using signed URLs
-- 🌐 Deployed on Netlify
-
-**Tech:** `TanStack Start` `React` `Vite` `Supabase` `Zod` `Netlify`
-
-**Status:** ✅ Live client project
-
-### 🎓 Student Hub (Hewett Helper)
-
-A student-focused project that brings useful academic resources and student utilities together in one place.
-
+**Project focus**
 - 📚 Academic resources and previous-year questions
 - 👤 Student accounts and authentication
-- 🗄️ Database-backed functionality
+- 🗂️ Student-focused utilities and information
+- ⚙️ Backend development and database integration
 
-**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose`
+**Technologies**
 
-### 💬 TalkUp
-
-A full-stack real-time messaging platform that I am building mainly to learn backend engineering in depth.
-
-- 🔐 Authentication and user search
-- 💬 One-to-one and group chats
-- ⚡ Real-time messaging
-- 📖 Learning goal: understand why every technical choice is made
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `HTML` `CSS`
-
-**Status:** 🛠️ In progress
+`Node.js` `Express.js` `MongoDB` `Mongoose`
 
 ### 🎵 Spotify Clone
 
-A Spotify-inspired project built to practise web application development and strengthen my implementation skills.
+A Spotify-inspired practice project built to improve my understanding of web application development and application structure.
 
-**Tech:** `JavaScript` `Node.js` `Express.js` `MongoDB`
+**Project focus**
+- 🎨 Music-platform-inspired interface
+- ⚙️ Practical web development
+- 🔌 Application functionality and backend concepts
 
----
+**Technologies**
 
-## 🎯 What I'm Working Toward
+`JavaScript` `Node.js` `Express.js` `MongoDB`
 
-- 🧠 Strengthening programming and computer science fundamentals
-- 🗄️ Improving backend development and database knowledge
-- ⚛️ Learning React and frontend-backend integration
-- 🐞 Building better projects through testing and debugging
-- 🔐 Understanding security, maintainability, and software design
-- 📦 Writing cleaner, simpler code that is easy to read and maintain
+> Project descriptions should reflect the features actually implemented in the corresponding repositories.
 
 ---
 
-## 🧭 How I Learn and Build
+## Currently Learning
 
-1. **Build:** I learn best by making real projects, not only by reading.
-2. **Break:** I test, debug and fix errors to understand what actually went wrong.
-3. **Understand:** I ask why something works, not only how to copy it.
-4. **Improve:** I rebuild and refine my code until it is cleaner and more reliable.
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="Learning React"/>
+<img src="https://img.shields.io/badge/Backend-Engineering-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Engineering"/>
+<img src="https://img.shields.io/badge/Database-Fundamentals-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Database Fundamentals"/>
+
+</div>
+
+My current priorities are strengthening programming fundamentals, improving backend implementation, learning React, and building applications with better structure and maintainability.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/amanrcbfan99">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amanrcbfan99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/amanrcbfan99">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrcbfan99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=amanrcbfan99&theme=tokyonight&hide_border=true&border_radius=10" width="80%" alt="GitHub Contribution Streak"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrcbfan99&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" width="100%"/>
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrcbfan99&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Development Philosophy
+
+<div align="center">
+
+### Learn → Build → Debug → Understand → Improve
+
+</div>
+
+I believe meaningful progress comes from solving real problems, learning from failures, and continuously improving how software is designed and built.
+
+My aim is to develop practical skills while building a strong foundation in software engineering.
+
+---
+
+## Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/amanrcbfan99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <a href="mailto:amanrcbfan99@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aman"/>
 </a>
 
 <br/><br/>
 
 **Always Learning · Always Building · Always Improving**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5146C7,100:171738&height=120&section=footer" width="100%" alt="Footer"/>
+*Thanks for visiting my profile!*
 
 </div>
-````
-````
-
-If it still looks worse to you, tell me which part is the problem: the layout, the colors, or a specific image that doesn't load.
