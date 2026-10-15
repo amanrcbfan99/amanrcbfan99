@@ -84,6 +84,29 @@ Currently, I'm learning **React** and working toward becoming a strong **full-st
 
 ---
 
+# 🤖 AI Evaluation Experience
+
+I have hands-on experience working on AI evaluation tasks through **Handshake AI and Outlier AI**, contributing to task-based assessments of AI-generated content.
+
+### 💼 Platforms
+
+- **Handshake AI** — AI evaluation and task-based quality assessment.
+- **Outlier AI** — AI-related evaluation tasks and response assessment.
+
+### 🔍 Key Skills & Experience
+
+- 🤖 Evaluating AI-generated responses against task-specific guidelines.
+- 📋 Assessing response quality, accuracy, and instruction adherence.
+- 🧠 Applying critical thinking and analytical reasoning to evaluation tasks.
+- 🎯 Following evaluation rubrics and quality standards.
+- 🔎 Identifying errors, inconsistencies, and areas for improvement in AI outputs.
+
+### 🛠️ Skills Developed
+
+`AI Evaluation` `Quality Assessment` `Critical Thinking` `Analytical Reasoning` `Instruction Following`
+
+---
+
 # 🧠 Development Journey
 
 ```text
